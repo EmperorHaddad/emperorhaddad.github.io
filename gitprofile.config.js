@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/james-haddad-14416625a',
+    linkedin: 'james-haddad-14416625a',
     twitter: '',
     mastodon: '',
     facebook: '',
